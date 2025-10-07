@@ -1,2 +1,4 @@
  Send me the user data..
  Get the use data...
+
+ Create an avatar for user
